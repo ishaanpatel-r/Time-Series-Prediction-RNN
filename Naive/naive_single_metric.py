@@ -171,4 +171,4 @@ def use_files_to_generate(csv_file_name):
 			plt.savefig(skill_set + '.png', bbox_inches='tight')
 			plt.show()
 
-use_files_to_generate('all_skill_data.csv')
+use_files_to_generate('../all_skill_data.csv')
